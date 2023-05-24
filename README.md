@@ -1,6 +1,15 @@
 ### Olá, sou o Gabriel Marangoni! ✌️
 
-<img align="right" width="150" height="150" src="https://github.com/Marang0ni/Marang0ni/assets/133555915/4326a313-77bd-432e-9547-52d4407050c8"></a>
+<img align="right" width="170" height="170" src="https://github.com/Marang0ni/Marang0ni/assets/133555915/4326a313-77bd-432e-9547-52d4407050c8"></a>
+
+
+##### I'am a programmer and 3D Artist!!
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Blender" height="30" width="38" src="https://github.com/Marang0ni/Marang0ni/assets/133555915/ab81b2cf-8939-4447-a48d-bdecf01f3716">
+<img align="center" alt="Csharp" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+<img align="center" alt="Unity" height="30" width="33" src="https://github.com/Marang0ni/Marang0ni/assets/133555915/864a24eb-71b9-4eb9-9123-2586ad37bb33">
+</div>
 
 ##
 
