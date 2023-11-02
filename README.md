@@ -24,11 +24,12 @@
 
 <img align="right" width="360" height="210" src="https://github.com/Marang0ni/Marang0ni/assets/133555915/08b538cc-8c44-41ea-aa0e-4ff517d061cc">
 
-##### Participação como __*Programador*__
+Participação como __*Programador*__
+
 O jogo incorpora elementos de mistério, puzzle e estética retrô para atrair uma audiência diversificada, com ênfase em jovens de 12 a 19 anos, uma faixa etária frequentemente afetada por questões emocionais.
 
 Quer ver um pouco mais sobre este projeto? confira o repositório aqui no GitUHb!
 
 [Pagina de acesso ao repositório](https://github.com/Marang0ni/TheBorderGame)
 
-
+###### *Desenvolvido em 2023 | primeiro projeto*
