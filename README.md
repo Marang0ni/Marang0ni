@@ -28,7 +28,7 @@ Participação como __*Programador*__
 
 O jogo incorpora elementos de mistério, puzzle e estética retrô para atrair uma audiência diversificada, com ênfase em jovens de 12 a 19 anos, uma faixa etária frequentemente afetada por questões emocionais.
 
-Quer ver um pouco mais sobre este projeto? confira o repositório aqui no GitUHb!
+Quer ver um pouco mais sobre este projeto? confira o repositório aqui no GitHub!
 
 [Pagina de acesso ao repositório](https://github.com/Marang0ni/TheBorderGame)
 
